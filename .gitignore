@@ -1,0 +1,17 @@
+# Keep big/bad stuff out
+*.twbx
+*.hyper
+*.tdsx
+*.tde
+*.csv
+*.tsv
+*.xlsx
+*.parquet
+*.db
+*.sqlite
+*.log
+*.tms
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
